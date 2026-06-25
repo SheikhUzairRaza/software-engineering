@@ -335,7 +335,7 @@ A critical SQA element. Customers frequently request changes during development.
 
 ---
 
-## Summary of Lecture 28
+## Summary of This Module
 
 | Topic                                        | Key Takeaway                                                                                                          |
 | -------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
